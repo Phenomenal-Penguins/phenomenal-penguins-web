@@ -15,6 +15,7 @@ function App() {
   return (
   <Router>
     <div className="grid-container">
+    <link rel="stylesheet" href="Style.css"/>
         <title>
             Phenomenal Penguins
         </title>
